@@ -43,6 +43,9 @@ main h3 {
   font-size: 105%;
 }
 
+:root {
+  --global-color-1: #800000;
+}
 /* the styles for the footer */
 
 footer p {
